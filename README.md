@@ -8,5 +8,5 @@ Converted this problem into a binary classification problem. The target variable
 **1**: for all marks greater than or equal to median: *Good_Marks*<br>
 **0**: for all marks less than median: *Not_Good_Marks*<br><br>
 Implemented Logistic regression for this classification problem.<br><br>
-Experimented with various model parameters for both linear and logistic regression and reported the findings as how the error varies for train and test sets with varying these parameters. Implemented the ``Gradient Boosting`` algorithms as learning method.<br>
+Experimented with various model parameters for both linear and logistic regression and reported the findings as how the error varies for train and test sets with varying these parameters. Implemented the ``Gradient Descent`` algorithms as learning method.<br>
 ![](https://github.com/arpitchaukiyal/Machine-Learning-Linear-and-Logisctic-Regression/blob/master/costvsiterarion2.png)
