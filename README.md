@@ -1,4 +1,4 @@
-# Machine Learning - Linear and Logisctic-Regression <br>
+# Machine Learning - Linear and Logistic Regression <br>
 
 **Linear Regression**: Linear regression attempts to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an dependent variable, and the other is considered to be explanatory variable.<br>
 **Logistic Rgression**: Logistic regression predicts the probability of an outcome that can only have two values (i.e. a dichotomy). The prediction is based on the use of one or several predictors (numerical and categorical).<br>
